@@ -78,7 +78,4 @@ public class BaseTest extends SetUpBrowser {
         driver.quit();
     }
 
-
-
-
 }

@@ -27,7 +27,4 @@ public class SauceLabsSettings {
         }
         return driver;
     }
-
-
-
 }

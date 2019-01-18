@@ -41,7 +41,5 @@ public class SparesTest extends BaseTest{
     public void clearTest(){
         sparesPage.clickLastSpareFromList();
         editSparePage.checkNameAndDeleteSpare(spareName);
-        logger.info("TEST DATA CLEARED!");
-
     }
 }

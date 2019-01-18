@@ -25,7 +25,4 @@ public class LoginTest extends BaseTest {
     Assert.assertEquals( "Wrong login name!",login, name2);
 
     }
-
-
-
 }
